@@ -68,3 +68,5 @@ export function DefaultSidebar() {
     </Card>
   );
 }
+
+export default DefaultSidebar;
