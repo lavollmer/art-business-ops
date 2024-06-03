@@ -1,9 +1,13 @@
 import React from 'react'
+import TextBlock from './TextBlock'
+import TextImageBlock from './TextImageBlock';
 
 
 const Home = () => {
   return (
     <div>
+      <TextBlock title="My Title" text="This is some paragraph text." />
+      <TextImageBlock title="My Title" text="This is some paragraph text." imageUrl="/path/to/image.jpg" />
       <div>
         <h1>Manage Your Art Business</h1>
         <p>Please help me manage it.</p>
