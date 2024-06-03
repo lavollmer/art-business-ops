@@ -1,31 +1,26 @@
-import React from 'react'
-import TextBlock from './TextBlock'
-import TextImageBlock from './TextImageBlock';
-
+import React from "react";
+import TextBlock from "./TextBlock";
+import TextImageBlock from "./TextImageBlock";
+import DemoBlock from "./DemoBlock";
 
 const Home = () => {
   return (
     <div>
       <TextBlock title="My Title" text="This is some paragraph text." />
-      <TextImageBlock title="My Title" text="This is some paragraph text." imageUrl="/path/to/image.jpg" />
-      <div>
-        <h1>Manage Your Art Business</h1>
-        <p>Please help me manage it.</p>
-      </div>
-      <div>
-        <h1>Connect with your audience</h1>
-        <p>Please help me manage it.</p>
-      </div>
-      <div>
-        <h1>Get started</h1>
-        <p>Please help me manage it.</p>
-      </div>
-      <div>
-        <h1>Learn more</h1>
-        <p>Please help me manage it.</p>
-      </div>
+      <TextImageBlock
+        title="My Title"
+        text="This is some paragraph text."
+        imageUrl="/path/to/image.jpg"
+      />
+      <DemoBlock
+        title="Try Our Demo"
+        text="This is some paragraph text."
+        imageUrl="/path/to/image.jpg"
+        buttonText="Start Demo"
+      />
+      <TextBlock title="Learn More" text="This is some paragraph text." />
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
