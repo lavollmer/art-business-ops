@@ -14,6 +14,12 @@
 2. Setup structure of website - homepage, footer, header and navigation
 3. Working on functionality of the navigation - setup useState, togglestate and added comments - very basic and NO styling
 
+## Things that Need to Get Fixed
+
+1. Navigation Sidebar - fix content, and close button
+
 ## Acknowledgements
+
+Sidebar Template ReactJS TailwindCSS - https://www.material-tailwind.com/docs/react/sidebar
 
 ## License

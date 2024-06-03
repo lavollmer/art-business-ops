@@ -32,15 +32,15 @@ const DefaultSidebar = () => {
     <>
       <FaBars onClick={handleSidebarOpen} />
       {sidebarOpen && (
-        <div className="sidebar">
-          <Card className="h-[calc(100vh-2rem)] w-full max-w-[20rem] p-4 shadow-xl shadow-blue-gray-900/5">
+        <div className="flex flex-col sidebar">
+          <Card className="h-[calc(100vh-2rem)] w-[20rem] max-w-[20rem] p-4 shadow-xl shadow-blue-gray-900/5">
             <div className="mb-2 p-4">
-              <Typography variant="h5" color="blue-gray">
-                Sidebar
+              <Typography variant="h5" color="blue-gray text-lg text-bold">
+                Navigation
               </Typography>
             </div>
-            <List>
-              <ListItem>
+            <List className="p-4">
+              <ListItem >
                 <ListItemPrefix>
                   <PresentationChartBarIcon className="h-5 w-5" />
                 </ListItemPrefix>
