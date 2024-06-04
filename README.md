@@ -13,6 +13,7 @@
 1. Setup Vite, ReactJS, TailwindCSS
 2. Setup structure of website - homepage, footer, header and navigation
 3. Working on functionality of the navigation - setup useState, togglestate and added comments - very basic and NO styling
+4. Added all functional components I wanted on my page
 
 ## Things that Need to Get Fixed
 
