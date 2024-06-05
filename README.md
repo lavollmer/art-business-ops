@@ -1,6 +1,7 @@
 # art-business-ops
 
 ## Project Description
+This project is designed to streamline the multifaceted roles of small business artists. It was built from the ground up and is completely unique.
 
 ## Table of Contents
 
