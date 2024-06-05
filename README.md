@@ -1,13 +1,27 @@
 # art-business-ops
 
 ## Project Description
-This project is designed to streamline the multifaceted roles of small business artists. It was built from the ground up and is completely unique.
+This project is designed to streamline the multifaceted roles of small business artists.The primary technologies leveraged for this project were ReactJS, JavaScript, TailwindCSS, and Vite. The concept, design, user interface, and code were solely created by the author.
 
 ## Table of Contents
 
-## Challenge
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-## Screenshots
+
+## Overview
+
+The project's scope involved developing an artist operations application using ReactJS, Tailwind CSS, JavaScript, and Vite. Additionally, I worked on using various features to help build out this application to include a frontend and backend server.
+
+## The challenge
+
 
 ## Process
 
