@@ -24,6 +24,10 @@ The project's scope involved developing an artist operations application using R
 
 The challenge of the project was to create a space to have all business information for a creator to navigate.
 
+## Screenshot
+
+## Links
+
 
 ## Process
 
