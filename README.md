@@ -22,6 +22,8 @@ The project's scope involved developing an artist operations application using R
 
 ## The challenge
 
+The challenge of the project was to create a space to have all business information for a creator to navigate.
+
 
 ## Process
 
@@ -39,3 +41,5 @@ The project's scope involved developing an artist operations application using R
 Sidebar Template ReactJS TailwindCSS - https://www.material-tailwind.com/docs/react/sidebar
 
 ## License
+
+No license 
