@@ -6,7 +6,7 @@ import DemoBlock from "./DemoBlock";
 const Home = () => {
   return (
     <div>
-      <TextBlock title="My Title" text="This is some paragraph text." />
+      <TextBlock title="About Us" text="I am working to update the way small business art sellers operate. There are so many different websites and features to operate in." />
       <TextImageBlock
         title="My Title"
         text="This is some paragraph text."
@@ -18,7 +18,7 @@ const Home = () => {
         imageUrl="/path/to/image.jpg"
         buttonText="Start Demo"
       />
-      <TextBlock title="Learn More" text="This is some paragraph text." />
+      <TextBlock title="Join the Newsletter" text="Click below to join the newsletter to learn more." />
     </div>
   );
 };
