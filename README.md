@@ -28,13 +28,12 @@ The challenge of the project was to create a space to have all business informat
 
 ## Links
 
-
 ## Process
 
 1. Setup Vite, ReactJS, TailwindCSS
 2. Setup structure of website - homepage, footer, header and navigation
 3. Working on functionality of the navigation - setup useState, togglestate and added comments - very basic and NO styling
-4. Added all functional components I wanted on my page
+4. I began to add all functional components on my page so that the same styling would be repeated throughout.
 
 ## Things that Need to Get Fixed
 
