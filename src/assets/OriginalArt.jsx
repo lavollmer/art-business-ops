@@ -8,3 +8,5 @@ const OriginalArt = () => {
         </div>
     );
 }
+
+export default OriginalArt;
