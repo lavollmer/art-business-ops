@@ -8,7 +8,9 @@ function App() {
   return (
     <>
       <div>
-        <h1 className="font-bold">Art Studio</h1>
+        <div>
+          <h1 className="font-bold">Art Studio</h1>
+        </div>
         <Prints />
         <Stickers />
         <OriginalArt />
