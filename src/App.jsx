@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Original Art</h1>
+        <h1 className="font-bold">Art Studio</h1>
         <Prints />
         <Stickers />
         <OriginalArt />
