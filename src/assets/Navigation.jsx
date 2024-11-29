@@ -2,20 +2,13 @@ import React from 'react'
 
 const Navigation = () => {
   return (
-    <div>
-        <div>
-            Navigation
-        </div>
-        <div>
+    <div className='flex-row'>
+        <div className='flex-row text-sm'>
             <ul>
                 <li>Home</li>
                 <li>Shop</li>
                 <li>About</li>
                 <li>Contact</li>
-                </ul>
-        </div>
-        <div>
-            <ul>
                 <li>Prints</li>
                 <li>Stickers</li>
                 <li>Original Art</li>
